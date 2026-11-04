@@ -44,6 +44,14 @@ I enjoy working with **HTML, CSS, JavaScript**, and continuously improving my pr
 
 ## 🚀 Projects
 
+### 🛒 TechCart
+
+An e-commerce storefront for discovering products and exploring a streamlined online shopping experience.
+
+🔗 [Live Demo](https://techcart-sigma.vercel.app/) · [GitHub Repository](https://github.com/akshitofficials/TechCart)
+
+---
+
 ### 🛍️ Myntra Clone
 
 A responsive frontend clone inspired by Myntra with product listings, navigation, and interactive UI components.
